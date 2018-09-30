@@ -1,5 +1,9 @@
 # Computer Science Flash Cards
 
+- 分布式事务中间件raincat事务恢复与回滚: http://www.iqiyi.com/w_19s0nmod9t.html
+- admin后台: http://www.iqiyi.com/w_19s0nj1bjx.html
+
+
 This is a little website I've put together to allow me to easily make flash cards and quiz myself for memorization of:
 
 - general cs knowledge
